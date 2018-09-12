@@ -1,0 +1,13 @@
+.day {
+  border-right: #e0e0e0 1px solid;
+  padding-left: 8px;
+  flex: 1 1 0%;
+
+  &:first-of-type {
+    border-left: #e0e0e0 1px solid;
+  }
+}
+
+.invisible {
+  visibility: hidden;
+}

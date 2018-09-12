@@ -1,0 +1,10 @@
+.month {
+  display: flex;
+  flex-direction: column;
+}
+
+.week {
+  display: flex;
+  height: 100px;
+  border-bottom: #e0e0e0 1px solid;
+}
